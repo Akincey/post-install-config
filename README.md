@@ -46,7 +46,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-  ![image](https://github.com/user-attachments/assets/875e550a-9096-4f5f-a20b-5ad5466f2b11)
+  ![image](https://github.com/user-attachments/assets/e2b7040a-78eb-49e2-83bd-fb0d56ca3865)
+
 
 </p>
 <p>
