@@ -49,7 +49,7 @@ This screenshot shows me actively working a ticket from the admin panel. Through
 
 </p>
 <p>
-I created an agent profile for Jane Doe, assigning her to the Sys Admins department and granting her full access permissions to perform administrative tasks without restrictions.
+I created an agent profile for Jane Doe, assigning her to the Sys Admins department and granting her full access permissions. This level of access was necessary to allow her to manage tickets, configure system settings, and support administrative operations without limitations
 </p>
 <br />
 
