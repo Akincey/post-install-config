@@ -38,7 +38,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot shows me actively working a ticket from the admin panel. Through this interface, I configured departments, created teams, assigned agents, and defined their roles and permissions to ensure proper access control and workflow management.
 </p>
 <br />
 
