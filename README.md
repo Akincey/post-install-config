@@ -59,6 +59,11 @@ I created an agent profile for Jane Doe, assigning her to the Sys Admins departm
 
   ![image](https://github.com/user-attachments/assets/e8d20149-b99b-4734-8292-f170a9c3c900)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I created three distinct SLA (Service Level Agreement) policies to define the severity levels and corresponding response times for tickets:
+
+Sev-A (Major): 1-hour grace period, 24/7 support schedule
+Sev-B (Moderate): 4-hour grace period, weekday-only (24/1) support schedule
+Sev-C (Minor): 8-hour grace period, 24/7 support schedule
+These SLAs ensure that ticket prioritization aligns with issue severity and business impact, supporting efficient and timely resolution.
 </p>
 <br />
